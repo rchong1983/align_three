@@ -5,10 +5,10 @@
         id          = "edu.iupui.n300.HelloWorld"
         version     = "1.0.0" >
 
-    <name>Hello World</name>
+    <name>Align Three (Tic-Tac-Toe)</name>
 
     <description>
-        A hellow world example app.
+        align three
     </description>
 
     <author href="https://github.com/ProfessorKevinForbes/Hello World" email="professorkevinforbes@gmail.com">
