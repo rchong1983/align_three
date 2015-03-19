@@ -11,8 +11,8 @@
         align three
     </description>
 
-    <author href="https://github.com/ProfessorKevinForbes/Hello World" email="professorkevinforbes@gmail.com">
-        Kevin Forbes
+    <author href="https://github.com/ProfessorKevinForbes/Hello World" email="rchong@umich.edu">
+        ron chong
     </author>
 
 	<icon src="icon.png" />
@@ -20,7 +20,6 @@
 
 	<gap:platform name="ios" />
 	<gap:platform name="android" />
-
 
     <uses-sdk android:minSdkVersion="19"
               android:targetSdkVersion="19"
